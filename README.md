@@ -1,4 +1,4 @@
-# Butterfly classification using CNN
+# Butterfly classification using transfer learning
 -build and train a CNN to classify 10 different butterfly species.
 
 <bold>Dataset:</bold>
